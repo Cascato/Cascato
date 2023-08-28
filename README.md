@@ -1,4 +1,4 @@
-[![Cascato's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Cascato/github-readme-stats)
+[![Cascato's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)]
 
 
 
