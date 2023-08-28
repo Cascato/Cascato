@@ -1,4 +1,4 @@
-[![Cascato's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cascato&layout=donut)](https://github.com/Cascato/github-readme-stats)
 
 
 
