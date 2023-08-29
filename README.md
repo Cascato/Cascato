@@ -7,6 +7,7 @@
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Cascato&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cascato&theme=gruvbox&hide_border=false"  width="400px" />
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Cascato&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <div align="center"> 
 <a href="https://www.instagram.com/moreira.doup/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:gabrieljosemoreira9@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
