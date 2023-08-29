@@ -34,8 +34,6 @@
 ![Spring](https://img.shields.io/badge/Spring-04080f?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Java-04080f?style=for-the-badge&logo=python&logoColor=white)
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c2a58b&height=120&section=footer"/>
 ## :snake: Activities :
-
 ![Snake animation](https://github.com/MauricioMucci/MauricioMucci/blob/output/github-contribution-grid-snake.svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c2a58b&height=120&section=footer"/>
