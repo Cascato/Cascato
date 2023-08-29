@@ -18,10 +18,16 @@
 <a href = "gabrieljosemoreira9@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  </div>
 
-# Main skills:
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Java
+    </td>    
+</tr>
 
-![Java](https://img.shields.io/badge/Java-04080f?style=for-the-badge&logo=openjdk&logoColor=white
-)
 
 ## Studying in this moment:
 ![Spring](https://img.shields.io/badge/Spring-04080f?style=for-the-badge&logo=spring&logoColor=white)
