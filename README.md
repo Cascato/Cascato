@@ -10,5 +10,6 @@
 ## Main skills:
 ![Java](https://img.shields.io/badge/Java-04080f?style=for-the-badge&logo=openjdk&logoColor=white
 )
+![CSS3](https://img.shields.io/badge/CSS3-04080f?style=for-the-badge&logo=css3&logoColor=white)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c2a58b&height=120&section=footer"/>
