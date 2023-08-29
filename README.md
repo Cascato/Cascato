@@ -4,7 +4,7 @@
 
 
  # 📊 GitHub Stats:
- 
+ <h2><img src="[https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhpbnRqMWptZ3phdGFiMGJyMHVid3lhYmh3ZWUybzZvbnNmZDNucSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif)" width="35px" height="35px">GitHub Stats:</h2>
 <div align="center"> 
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Cascato&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cascato&theme=gruvbox&hide_border=false"  width="400px" />
