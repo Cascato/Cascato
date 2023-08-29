@@ -29,7 +29,7 @@
 </tr>
 </table>
 
-<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpjNmppZ2xvdHVvMTFnb3AydTE5anVrdTBidGFsMDJ0MXhtMzRlbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XSmHWLpvdycR6xukzC/giphy.gif" width="35px" height="35px">Studying in this moment:</h2>
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpjNmppZ2xvdHVvMTFnb3AydTE5anVrdTBidGFsMDJ0MXhtMzRlbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XSmHWLpvdycR6xukzC/giphy.gif" width="35px" height="30px">Studying in this moment:</h2>
 
 ![Spring](https://img.shields.io/badge/Spring-04080f?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Java-04080f?style=for-the-badge&logo=python&logoColor=white)
