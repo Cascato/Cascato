@@ -12,13 +12,7 @@
  
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Cascato&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  </div>
- 
-<div align="center"> 
-<a href="https://www.instagram.com/moreira.doup/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "gabrieljosemoreira9@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
- </div>
-
-<table align="center">
+ <table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -27,6 +21,12 @@
       <br>Java
     </td>    
 </tr>
+<div align="center"> 
+<a href="https://www.instagram.com/moreira.doup/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "gabrieljosemoreira9@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+ </div>
+
+
 
 
 ## Studying in this moment:
