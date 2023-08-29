@@ -13,6 +13,6 @@
 ## Studying in this moment:
 ![Spring](https://img.shields.io/badge/Spring-04080f?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Java-04080f?style=for-the-badge&logo=python&logoColor=white)
-![Spring](https://img.shields.io/badge/OOP-04080f?style=for-the-badge&logo=spring&logoColor=white)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c2a58b&height=120&section=footer"/>
