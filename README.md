@@ -14,6 +14,7 @@
 <a href = "mailto:gabrieljosemoreira9@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  </div>
 ## Main skills:
+ 
 ![Java](https://img.shields.io/badge/Java-04080f?style=for-the-badge&logo=openjdk&logoColor=white
 )
 
