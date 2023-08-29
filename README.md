@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e5c76&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c2a58b&height=120&section=header"/>
 
 Hi, my name is Cascato, and this is my github :)
 
@@ -8,4 +8,4 @@ Hi, my name is Cascato, and this is my github :)
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Cascato&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e5c76&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c2a58b&height=120&section=footer"/>
